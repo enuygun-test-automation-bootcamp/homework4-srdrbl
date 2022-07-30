@@ -53,8 +53,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
             RestTemplate restTemplate = new RestTemplate();
 
             store.setId(5);
-            store.setPetId(6);
-            store.setQuantity(20);
+            store.setPetId(5);
+            store.setQuantity(5);
             store.setShipDate("2022-07-30T18:36:23.057+0000");
             store.setStatus("placed");
             store.setComplete(true);
